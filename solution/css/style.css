@@ -1,0 +1,158 @@
+
+/* base styles*/
+*{
+	
+	box-sizing: border-box;
+}
+h1
+{
+	font-family: brushstroke, fantasy;
+	color: #000000;
+}
+body{
+	background-color: #FEF5CA;
+}
+
+p{
+	padding: 10px;
+	margin: 0;
+
+}
+
+.container{
+	border: none;
+	margin: 10px 30px 10px auto;
+	
+	padding: 10px;
+}
+
+section{
+	border: 1px solid black;
+	background-color: #00FF99;
+	width: 30%;
+	height: auto;
+	font-family: sans-serif;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#Chicken{
+	border: 1px solid black;
+    text-align: center;
+    width: 30%;
+   margin-left: 36%;
+   font-family: sans-serif;
+   font-weight: bold;
+   font-size: 125%;
+   margin-bottom: 0;
+   margin-top: 0;
+   padding: 5px;
+   background-color: #FFFF00;
+   position: relative;
+   
+}
+#Beef{
+	border: 1px solid black;
+text-align: center;
+width: 30%;
+margin-left: 36%;
+   font-family:  sans-serif;
+   font-weight: bold;
+   font-size: 125%;
+   margin-bottom:0;
+   margin-top: 0;
+   padding: 5px;
+   background-color: #FF1439;
+   position: relative;
+ 
+
+}
+#Sushi{
+	
+	border: 1px solid black;
+    text-align: center;
+    width: 30%;
+    margin-left:36%;
+   font-family: sans-serif;
+   font-weight: bold;
+   font-size: 125%;
+   margin-bottom: 0;
+   margin-top: 0;
+   padding: 5px;
+   background-color: #6495ED;
+color: white;
+position: relative;
+}
+
+
+
+#Chicken-div{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 300%;
+	text-align: center;
+}
+#Beef-div{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 300%;
+	text-align: center;
+}
+#Sushi-div{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 300%;
+	text-align: center;
+}
+
+.navbar-brand{
+	font-size: 2em;
+	border: 0 0 10px 10px;
+	color: #FFFFFF;
+	height: 60px;
+    text-align: left;
+
+}
+
+#header-nav{
+	border: 0;
+	background-color: #FC5F06;
+	color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #61122f;
+
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -30px;
+}
+
+.nav-header{
+	background-color: #ffffff;
+
+}
+
+.nav-brand{
+	color: #ffffff;
+	font-size: 1.5em;
+    text-align: left;
+
+}
+
+#nav-list{
+	color: white;
+}
+
+hr{
+	border-color: white;
+
+}
+
+.item{
+	color: white;
+	font-size: 1.2em;
+}
