@@ -4,7 +4,7 @@
 
 var helloSpeaker = {};
 
-var speakWord = "Hello";
+var speakWord = "Hello"
 
 helloSpeaker.speak= function (name) {
 
